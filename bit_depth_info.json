@@ -1,0 +1,50 @@
+{
+  "1": {
+    "max_bit": 1,
+    "number_of_bit": 1,
+    "uncompressed_image_format": "bmp"
+  },
+  "CMYK": {
+    "max_bit": 8,
+    "number_of_bit": 4,
+    "uncompressed_image_format": "tiff"
+  },
+  "F": {
+    "max_bit": 32,
+    "number_of_bit": 1,
+    "uncompressed_image_format": "tiff"
+  },
+  "HSV": {
+    "max_bit": 8,
+    "number_of_bit": 3
+  },
+  "I": {
+    "max_bit": 32,
+    "number_of_bit": 1
+  },
+  "L": {
+    "max_bit": 8,
+    "number_of_bit": 1
+  },
+  "LAB": {
+    "max_bit": 8,
+    "number_of_bit": 3
+  },
+  "P": {
+    "max_bit": 8,
+    "number_of_bit": 1
+  },
+  "RGB": {
+    "max_bit": 8,
+    "number_of_bit": 3,
+    "uncompressed_image_format": "bmp"
+  },
+  "RGBA": {
+    "max_bit": 8,
+    "number_of_bit": 4
+  },
+  "YCbCr": {
+    "max_bit": 8,
+    "number_of_bit": 3
+  }
+}
