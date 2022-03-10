@@ -105,7 +105,7 @@ class Generator(object):
             when the specified file name exist in the path
         """
         # Check if the file exist for the given file_name
-        if not os.path.exists(file_name + "." + self.file_format):
+        if os.path.exists(file_name + "." + self.file_format):
             raise FileExistsError('The file you requested to created is already exist!')
         # Iterate every pixel of the image
         for x_index in range(0, self.width):
