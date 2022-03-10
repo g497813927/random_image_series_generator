@@ -134,3 +134,9 @@ dmypy.json
 
 # macOS directory file
 .DS_Store
+
+# Ignoring generated file format
+*.bmp
+*.tiff
+*.jpeg
+*.jpg
