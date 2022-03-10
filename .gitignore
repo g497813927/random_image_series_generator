@@ -131,3 +131,6 @@ dmypy.json
 # Ignoring the workspace directory
 .idea/
 .vscode/
+
+# macOS directory file
+.DS_Store
